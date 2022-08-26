@@ -1,0 +1,6 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "hugo elephant - where is all the water"
+
+[blackfriday]
+  hrefTargetBlank = true
