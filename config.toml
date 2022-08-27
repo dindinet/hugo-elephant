@@ -2,5 +2,9 @@ baseurl = "/"
 languageCode = "en-us"
 title = "hugo elephant - where is all the water"
 
+[params]
+  author = 'Dindi'
+  exclaim = "Where is all the water?"
+
 [blackfriday]
   hrefTargetBlank = true
